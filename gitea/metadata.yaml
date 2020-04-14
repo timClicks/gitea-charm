@@ -1,0 +1,21 @@
+name: gitea
+summary: Describe your charm here
+maintainers:
+    - Tim McNamara <tsm@canonical.com>
+description: |
+    A nice long description of what the product does and any
+    high level information about how the charm provides the product,
+    on which platform, etc.
+tags:
+    - misc
+series:
+    - bionic
+    - focal
+
+# -- example relations, delete if unneeded
+#requires:
+#    db:
+#        interface: mysql
+#provides:
+#    website:
+#        interface: http

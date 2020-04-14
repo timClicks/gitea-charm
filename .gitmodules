@@ -1,0 +1,3 @@
+[submodule "gitea/mod/operator"]
+	path = gitea/mod/operator
+	url = https://github.com/canonical/operator.git

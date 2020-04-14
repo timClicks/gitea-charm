@@ -2,3 +2,11 @@ gitea-charm
 -----------
 
 ## WORK IN PROGRESS
+
+# Development 
+
+```console
+$ snap install charm
+
+$ charm
+```
